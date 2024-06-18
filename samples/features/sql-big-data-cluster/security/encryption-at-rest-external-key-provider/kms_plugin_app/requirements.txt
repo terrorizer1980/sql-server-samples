@@ -2,3 +2,4 @@ pycrypto==2.6.1
 pycryptodome==3.10.1
 cryptography==3.2.1
 hvac==0.10.11
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
